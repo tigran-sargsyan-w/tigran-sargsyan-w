@@ -12,11 +12,11 @@
             Committed to fostering a culture of creativity and excellence,
             I thrive in dynamic team environments where ideas flourish and visions become reality.
         </p>
-        <p style="text-align: center;margin-bottom: 10px;margin-top: 10px">
+        <p align="center" style="text-align: center;margin-bottom: 10px;margin-top: 10px">
             If you want to know more about me, click the button below.
         </p>
         <a href="https://tigran-sargsyan-w.github.io/" target="_blank">
-        <img src="https://img.shields.io/badge/More%20about%20me-4d4d4d?style=for-the-badge" alt="More about me badge">
+        <img align="center" src="https://img.shields.io/badge/More%20about%20me-4d4d4d?style=for-the-badge" alt="More about me badge">
          </a>
     </div>
 </section>
