@@ -82,7 +82,7 @@
 </section>
 <section id="contacts">
     <div style="text-align: center;margin-left: 40px;margin-right: 40px">
-        <h2>Contacts</h2>
+        <h2 align="center">Contacts</h2>
         <p>
             I am always open to new opportunities and collaborations.
             You can reach me via email, LinkedIn, or other 
