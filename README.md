@@ -1,9 +1,4 @@
-# tigran-sargsyan-w.github.io
-<style>
-    div h4, div p {
-        margin-bottom: 0;margin-top: 0;
-    }
-</style>
+
 <section id="about-me">
     <div style="text-align: center;margin-left: 40px;margin-right: 40px">
         <h1>Hi I'm Tigran</h1>
@@ -21,8 +16,9 @@
         <p style="text-align: center;margin-bottom: 10px;margin-top: 10px">
             If you want to know more about me, click the button below.
         </p>
-        <a href="https://tigran-sargsyan-w.github.io/" style="display: inline-block; padding: 0.75rem 1.9rem; border-radius: 30px; text-transform: uppercase; font-size: 0.82rem; transition: 0.3s; text-decoration: none; color: #fff; background-color: #6c757d; border: none; cursor: pointer;">
-    More about me </a>
+        <a href="https://tigran-sargsyan-w.github.io/">
+        <img src="https://img.shields.io/badge/More%20about%20me-4d4d4d?style=for-the-badge" alt="More about me badge">
+         </a>
     </div>
 </section>
 <section id="skills">
@@ -103,7 +99,8 @@
             LinkedIn: linkedin.com/in/tigran-sargsyan-w
         </a>    
         </p>
-        <a href="https://tigran-sargsyan-w.github.io/contacts" style="display: inline-block; padding: 0.75rem 1.9rem; border-radius: 30px; text-transform: uppercase; font-size: 0.82rem; transition: 0.3s; text-decoration: none; color: #fff; background-color: #6c757d; border: none; cursor: pointer;">
-    All Contacts </a>
+        <a href="https://tigran-sargsyan-w.github.io/contacts">
+        <img src="https://img.shields.io/badge/All%20Contacts-4d4d4d?style=for-the-badge" alt="More about me badge">
+         </a>
     </div>
 </section>
