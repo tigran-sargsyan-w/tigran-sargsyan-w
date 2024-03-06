@@ -1,7 +1,7 @@
 <section id="about-me">
     <div style="text-align: center;margin-left: 40px;margin-right: 40px">
         <h1 align="center">Hi I'm Tigran</h1>
-        <p style="text-align: center;">
+        <p align="center">
             Passionate Unity developer, adept in the art of crafting both game and non-game mechanics,
             blending programming prowess with design principles seamlessly. Fluent in C# and Unity,
             with an unwavering commitment to keeping pace with the latest industry advancements.
