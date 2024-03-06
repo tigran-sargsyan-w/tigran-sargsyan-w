@@ -22,7 +22,7 @@
 </section>
 <section id="skills">
 <div  style="text-align: center;">
-<h3>Programming & Development</h3>
+<h3 align="center">Programming & Development</h3>
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity badge">
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# badge">
 <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git badge">
@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script badge">
 </div>
 <div  style="text-align: center;">
-<h3>System Administration  & IT Infrastructure</h3>
+<h3 align="center">System Administration  & IT Infrastructure</h3>
 <img src="https://img.shields.io/badge/System%20administration-010933?style=for-the-badge" alt="System administration badge">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux badge">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows badge">
@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/Virtualization-609df7?style=for-the-badge" alt="Virtualization badge">
 </div>
 <div  style="text-align: center;">
-<h3>Interpersonal & Communication Skills</h3>
+<h3 align="center">Interpersonal & Communication Skills</h3>
 <img src="https://img.shields.io/badge/Tactical%20%26%20Strategic%20thinking-000?style=for-the-badge" alt="Tactical & Strategic thinking badge">
 <img src="https://img.shields.io/badge/Leadership-87747e?style=for-the-badge" alt="Leadership badge">
 <img src="https://img.shields.io/badge/Planning-9be8c7?style=for-the-badge" alt="Planning badge">
