@@ -1,4 +1,3 @@
-
 <section id="about-me">
     <div style="text-align: center;margin-left: 40px;margin-right: 40px">
         <h1>Hi I'm Tigran</h1>
@@ -16,7 +15,7 @@
         <p style="text-align: center;margin-bottom: 10px;margin-top: 10px">
             If you want to know more about me, click the button below.
         </p>
-        <a href="https://tigran-sargsyan-w.github.io/">
+        <a href="https://tigran-sargsyan-w.github.io/" target="_blank">
         <img src="https://img.shields.io/badge/More%20about%20me-4d4d4d?style=for-the-badge" alt="More about me badge">
          </a>
     </div>
@@ -99,7 +98,7 @@
             LinkedIn: linkedin.com/in/tigran-sargsyan-w
         </a>    
         </p>
-        <a href="https://tigran-sargsyan-w.github.io/contacts">
+        <a href="https://tigran-sargsyan-w.github.io/contacts" target="_blank">
         <img src="https://img.shields.io/badge/All%20Contacts-4d4d4d?style=for-the-badge" alt="More about me badge">
          </a>
     </div>
