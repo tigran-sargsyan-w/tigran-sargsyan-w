@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tigran-sargsyan-w/tigran-sargsyan-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">TIgran</a> 
+<h1 align="center">Hi there, I'm <a href="https://tigran-sargsyan-w.github.io/" target="_blank">Tigran</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, Developer, Engineer from Armenia</h3>
