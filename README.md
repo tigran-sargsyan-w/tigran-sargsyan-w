@@ -2,6 +2,9 @@
     <div style="text-align: center;margin-left: 40px;margin-right: 40px">
         <h1 align="center">Hi I'm Tigran</h1>
         <p align="center">
+          <img src="coding_from_anywhere.gif" alt="CodXplorer banner" width="20%">
+        </p>
+        <p align="center">
             Passionate Software developer, adept in the art of crafting both, game and non-game programs, mechanics, etc., 
             blending programming prowess with design principles seamlessly. Fluent in C# and Unity, 
             with an unwavering commitment to keeping pace with the latest industry advancements. 
