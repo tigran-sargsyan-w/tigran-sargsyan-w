@@ -78,7 +78,7 @@
         Whether it's landscapes, portraits, or street photography, I find joy in documenting the world around me.&#128247;</p>
 </div>
 </section>
-<section id="contacts">
+<section id="contacts" align="center">
     <div style="text-align: center;margin-left: 40px;margin-right: 40px">
         <h2 align="center">Contacts</h2>
         <p>
