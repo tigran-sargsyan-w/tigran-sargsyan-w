@@ -15,7 +15,7 @@
          </a>
     </div>
 </section>
-<section id="skills">
+<section id="skills" align="center">
 <div  style="text-align: center;">
 <h3 align="center">Programming & Development</h3>
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity badge">
