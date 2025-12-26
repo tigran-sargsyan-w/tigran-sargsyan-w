@@ -7,7 +7,6 @@
         <p align="center">
             Software developer focused on Unity/C# — gameplay systems, tooling, and performance. I also develop non-game applications across different platforms and technologies. I care about clean architecture, reusable packages, and pragmatic engineering choices that scale. I aim to ship polished projects that feel great to use and are easy to maintain.
         </p>
-        <!-- <hr style="width: 50%; margin: 20px auto;"> -->
         <p align="center" style="text-align: center;margin-bottom: 10px;margin-top: 10px">
             If you want to know more about me, click the button below.
         </p>
