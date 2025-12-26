@@ -5,14 +5,7 @@
           <img src="coding_from_anywhere.gif" alt="banner" width="20%">
         </p>
         <p align="center">
-            Passionate Software developer, adept in the art of crafting both, game and non-game programs, mechanics, etc., 
-            blending programming prowess with design principles seamlessly. Fluent in C# and Unity, 
-            with an unwavering commitment to keeping pace with the latest industry advancements. 
-            A collaborative spirit, equipped with communication skills, devoted to delivering immersive, 
-            high-quality experiences that captivate and engage audiences. 
-            Possessing a keen eye for detail and a penchant for innovation, I strive to push the boundaries of interactive experiences,
-            ensuring each project is not only technically sound but also artistically compelling. 
-            Committed to fostering a culture of creativity and excellence, I thrive in dynamic team environments where ideas flourish and visions become reality.
+            Software developer focused on Unity/C# — gameplay systems, tooling, and performance. I also develop non-game applications across different platforms and technologies. I care about clean architecture, reusable packages, and pragmatic engineering choices that scale. I aim to ship polished projects that feel great to use and are easy to maintain.
         </p>
         <p align="center" style="text-align: center;margin-bottom: 10px;margin-top: 10px">
             If you want to know more about me, click the button below.
