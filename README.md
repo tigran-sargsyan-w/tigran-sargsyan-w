@@ -1,4 +1,4 @@
-<section id="about-me">
+<section id="about-me" align="center">
     <div style="text-align: center;margin-left: 40px;margin-right: 40px">
         <h1 align="center">Hi I'm Tigran</h1>
         <p align="center">
